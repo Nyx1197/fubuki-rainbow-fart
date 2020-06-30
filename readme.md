@@ -7,6 +7,7 @@
 
 ### 脚本
 配置文件模板和快速构建脚本基于 [rainbow-fart-template](https://github.com/fz6m/rainbow-fart-template)
+<br>
 
 ## ShiragamiFubuki rainbow-fart voice expansion pack
 
@@ -15,6 +16,7 @@ Download the compressed package. Zip from [releases](https://github.com/fz6m/fub
 
 ## script
 Configuration file template and quick build script are based on [rainbow-fart-template](https://github.com/fz6m/rainbow-fart-template)
+<br>
 
 ## 白上吹雪の rainbow-fart 音声パッケージ
 
