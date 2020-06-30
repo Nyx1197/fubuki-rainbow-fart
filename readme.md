@@ -21,7 +21,7 @@ Configuration file template and quick build script are based on [rainbow-fart-te
 ## 白上吹雪の rainbow-fart 音声パッケージ
 
 ### 使い方
- [releases](https://github.com/fz6m/fubuki-rainbow-fart/releases) で圧縮パッケージ `.zip` をダウンロードし、コンソールに圧縮パッケージをロードする。
+ [releases](https://github.com/fz6m/fubuki-rainbow-fart/releases) で圧縮パッケージ `.zip` をダウンロードし、コンソールで圧縮パッケージをロードする。
 
 ### スクリプト
 設定ファイルのテンプレートと速いビルドスクリプトが [rainbow-fart-template](https://github.com/fz6m/rainbow-fart-template) に基づく
